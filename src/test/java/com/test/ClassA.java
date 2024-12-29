@@ -23,7 +23,17 @@ public class ClassA {
 	}
 	private void japan() {
 		System.out.println("6");
+	}
+	private void europe() {
+		System.out.println("europe");
 
 	}
+	private void australia() {
+		System.out.println("australia");
 
+	}
+	private void england() {
+		System.out.println("england");
+	}
+	
 }
