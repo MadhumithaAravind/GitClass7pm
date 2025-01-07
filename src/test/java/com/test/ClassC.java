@@ -6,5 +6,9 @@ public class ClassC {
 		
 
 	}
+	private void science() {
+		// TODO Auto-generated method stub
+
+	}
 
 }
